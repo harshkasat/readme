@@ -40,6 +40,9 @@ until finished
 
 End with an example of getting some data out of the system or using it for a little demo.
 
-## Usage <a name = "usage"></a>
+## Usage <a name = "dataset"></a>
+* run first four command line in ```Training and Detection.ipynb``` to form path for image Directory
+* Get dataset from https://www.kaggle.com/datasets/andrewmvd/car-plate-detection
+* Divide dataset into two parts test and train
+* allocate image and anotation in same file like this
 
-Add notes about how to use the system.
